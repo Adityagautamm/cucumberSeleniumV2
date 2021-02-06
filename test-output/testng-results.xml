@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="26536" started-at="2020-03-28T10:05:11 AEDT" finished-at="2020-03-28T10:05:38 AEDT">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="26536" started-at="2020-03-28T10:05:11 AEDT" finished-at="2020-03-28T10:05:38 AEDT">
+      <class name="com.ozbargain.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.ozbargain.qa.testcases.HomePageTest@1e6d1014]" name="initialization" is-config="true" duration-ms="17262" started-at="2020-03-28T10:05:11 AEDT" finished-at="2020-03-28T10:05:28 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="clickOnCarTest()[pri:0, instance:com.ozbargain.qa.testcases.HomePageTest@1e6d1014]" name="clickOnCarTest" duration-ms="461" started-at="2020-03-28T10:05:28 AEDT" finished-at="2020-03-28T10:05:29 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCarTest -->
+        <test-method status="PASS" signature="navigateToCarHirePage()[pri:0, instance:com.ozbargain.qa.testcases.HomePageTest@1e6d1014]" name="navigateToCarHirePage" duration-ms="4906" started-at="2020-03-28T10:05:29 AEDT" finished-at="2020-03-28T10:05:34 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCarHirePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ozbargain.qa.testcases.HomePageTest@1e6d1014]" name="tearDown" is-config="true" duration-ms="3804" started-at="2020-03-28T10:05:34 AEDT" finished-at="2020-03-28T10:05:38 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ozbargain.qa.testcases.HomePageTest -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
